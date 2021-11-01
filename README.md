@@ -1,4 +1,4 @@
-# test2-pro
+# WAD2021 Session 10
 
 ## Project setup
 ```
